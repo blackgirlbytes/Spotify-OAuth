@@ -2,9 +2,6 @@
 For a class assignment, my task was to use an OAuth API using the jQuery AJAX calls. I used Spotify's API to retrieve user profile information. 
 
 ![spotify](https://user-images.githubusercontent.com/22990146/36953385-41a04294-1fe8-11e8-9684-cd3c55094218.png)
-Link to project: http://recruiters-love-seeing-live-demos.com/
-
-alt tag
 
 How It's Made:
 Tech used: HTML, CSS,JavaScript, jQuery, AJAX 
